@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student Developer and Designer
 ------------------------------
 
-I am a studetn right now at https://edugrade.com/yh-utbildning/program/systemutvecklarenet-med-ai-kompetens/ with about 2 years experience with coding both frontend and also backend, I am also a Freelance Designer/Editor of Photos and Grapichs
+I am a studetn right now at [Edugrade - Programming .Net](https://edugrade.com/yh-utbildning/program/systemutvecklarenet-med-ai-kompetens/) with about 2 years experience with coding both frontend and also backend, I am also a Freelance Designer/Editor of Photos and Grapichs
 
 * 🌍  I'm based in Sweden
 * 🖥️  See my portfolio at [MyPortfolio](http://willepersson.github.io/MainPortfolio/)

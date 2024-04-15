@@ -9,7 +9,7 @@ I am a studetn right now at [Edugrade - Programming .Net](https://edugrade.com/y
 * 🌍  I'm based in Sweden
 * 🖥️  See my portfolio at [MyPortfolio](http://willepersson.github.io/MainPortfolio/)
 * ✉️  You can contact me at [Wille.Bussiness@gmail.com](mailto:Wille.Bussiness@gmail.com)
-* 🧠  I'm learning Javascript and How to use APIs
+* 🧠  I'm learning Asp.NET Core with diffrent thignbs like api,MVC AND Razor pages also Abit more c# Coding
 
 ### Skills
 

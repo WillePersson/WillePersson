@@ -13,7 +13,11 @@ I am a studetn right now at [Edugrade - SystemDeveloper .NET With Ai Competence]
 
 ------------------------------
 
-### Programming Skills
+###Skills
+
+------------------------------
+
+### Frontend 
 
 
 <p align="left">
@@ -21,7 +25,19 @@ I am a studetn right now at [Edugrade - SystemDeveloper .NET With Ai Competence]
 
 ------------------------------
 
-### Designer/Editer Skills
+### Backend 
+
+------------------------------
+
+### Frameworks 
+
+------------------------------
+
+### Database 
+
+------------------------------
+
+### Designer/Editer 
 
 
 <p align="left"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>

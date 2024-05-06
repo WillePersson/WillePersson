@@ -13,7 +13,7 @@ I am a studetn right now at [Edugrade - SystemDeveloper .NET With Ai Competence]
 
 ------------------------------
 
-###Skills
+### Skills
 
 ------------------------------
 

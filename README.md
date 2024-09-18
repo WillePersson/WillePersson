@@ -9,7 +9,7 @@ I am a studetn right now at [Edugrade - SystemDeveloper .NET With Ai Competence]
 * 🌍  I'm based in Sweden
 * 🖥️  See my portfolio at [MyPortfolio](http://willepersson.github.io/MainPortfolio/)
 * ✉️  You can contact me at [Wille.perssson3@gmail.com](mailto:Wille.perssson3@gmail.com)
-* 🧠  I'm Currently Learning Design Patterns and architecture in Programming
+* 🧠  I'm Currently Learning Azure dev ops
 
 ------------------------------
 

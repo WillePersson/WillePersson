@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student Developer and Designer
 ------------------------------
 
-I am a studetn right now at [Edugrade - SystemDeveloper .NET With Ai Competence](https://edugrade.com/yh-utbildning/program/systemutvecklarenet-med-ai-kompetens/) with about 2 years experience with coding both frontend and also backend, I am also a Freelance Designer/Editor of Photos and Grapichs
+I am a studetn right now at [Edugrade - SystemDeveloper .NET With Ai Competence](https://edugrade.com/yh-utbildning/program/systemutvecklarenet-med-ai-kompetens/) with about 2 years experience with coding both frontend and also backend
 
 * 🌍  I'm based in Sweden
-* 🖥️  See my portfolio at [MyPortfolio](http://willepersson.github.io/MainPortfolio/)
 * ✉️  You can contact me at [Wille.perssson3@gmail.com](mailto:Wille.perssson3@gmail.com)
 * 🧠  I'm Currently Learning Azure dev ops
 
@@ -31,13 +30,6 @@ I am a studetn right now at [Edugrade - SystemDeveloper .NET With Ai Competence]
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>
 </p>
 
-------------------------------
-
-### Designer/Editer 
-
-<p align="left"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
-<a 
 
 ------------------------------
 

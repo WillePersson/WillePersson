@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wille Persson</h1>
-<h3 align="center">I'm currently studying at [Edugrade - System Developer .NET With AI Competence](https://edugrade.com/yh-utbildning/program/systemutvecklarenet-med-ai-kompetens/) , focusing on .NET development and AI integration. I'm preparing for an upcoming internship where I'll work on real-world AI-driven projects and automation solutions. I’m passionate about solving problems through technology and always eager to learn more.</h3>
+<h3 align="center">I'm currently studying at [Edugrade - System Developer .NET With AI Competence], focusing on .NET development and AI integration. I’m passionate about solving problems through technology and always eager to learn more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willepersson&label=Profile%20views&color=0e75b6&style=flat" alt="willepersson" /> </p>
 

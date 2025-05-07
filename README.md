@@ -63,7 +63,6 @@
 ### 🔗 Contact & Links
 - 📫 **Email:** [wille.perssson3@gmail.com](mailto:wille.perssson3@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/wille-persson](https://linkedin.com/in/wille-persson)  
-- 💻 **GitHub Portfolio:** [github.com/WillePersson](https://github.com/WillePersson)
 
 ---
 
